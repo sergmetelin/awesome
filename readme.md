@@ -732,6 +732,7 @@
 - [Algorand](https://github.com/aorumbayev/awesome-algorand#readme) - An open-source, proof of stake blockchain and smart contract computing platform.
 - [ZeroNet](https://github.com/zolagonano/awesome-zeronet#readme) - A decentralized web-like network of peer-to-peer users.
 - [Cosmos SDK](https://github.com/cosmos/awesome-cosmos#readme) - Modular framework for building app-specific blockchains in Go.
+- [Hedera](https://github.com/hashgraph/awesome-hashgraph#readme) - An open-source, public network governed by leading organizations around the world.
 
 ## Health and Social Science
 
